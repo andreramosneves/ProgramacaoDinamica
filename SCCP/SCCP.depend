@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1478414405 source:c:\users\linolica1\desktop\projetoc\sccp\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1478446579 source:c:\users\linolica1\desktop\andre\prolog\nova pasta\projetoc\sccp\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
